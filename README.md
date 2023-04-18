@@ -18,3 +18,7 @@ $ ./check-license-header -f license-header-example.txt check-license-formating.g
 
 Binary should check license header without error. You can change license header of the file,
 execute check again and make sure, that it will fail.
+
+## Trademark
+
+"Che" is a trademark of the Eclipse Foundation
